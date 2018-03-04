@@ -1,0 +1,13 @@
+{
+  "name": "multilanguage-country-service-example",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node --inspect ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "1.7.0",
+    "multilanguage-country-service": "0.0.1"
+  }
+}
